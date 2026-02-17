@@ -22,6 +22,8 @@ Tenho foco em desenvolvimento Full Stack, banco de dados e aplicações web, uni
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+</div>
 </div>
 
 ###
@@ -33,7 +35,6 @@ Tenho foco em desenvolvimento Full Stack, banco de dados e aplicações web, uni
 * 🧮 Calculadora Web
 * 🐾 PetCare Register (CRUD de animais e tutores)
 
-
 ---
 
 ## 🎯 Objetivo
@@ -42,7 +43,20 @@ Atuar como Desenvolvedora Back-end / Full Stack Júnior, contribuindo com projet
 
 ---
 
-## 📫 Contato
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=larissabertaze-dev&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=larissabertaze-dev&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=larissabertaze-dev&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-* LinkedIn: [www.linkedin.com/in/larissa-bertaze]
-* Email: [larissabertaze@gmail.com]
+---
+[![](https://visitcount.itsvg.in/api?id=larissabertaze-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/larissa-bertaze) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:larissabertaze@gmail.com) 
+
+
+
+###
