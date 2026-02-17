@@ -45,20 +45,11 @@ Atuar como Desenvolvedora Back-end / Full Stack Júnior, contribuindo com projet
 </div>
 </div>
 
-###
-
----
-
-## 📂 Projetos em destaque
-
-* 🧮 Calculadora Web
-* 🐾 PetCare Register (CRUD de animais e tutores)
-
 ---
 
 <div align="center">
   
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <div align="center">
   
 ![](https://github-readme-stats.vercel.app/api?username=larissabertaze-dev&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
