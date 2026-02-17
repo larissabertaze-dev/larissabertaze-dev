@@ -5,14 +5,19 @@ Estudante de **Análise e Desenvolvimento de Sistemas**, em transição de carre
 Tenho foco em desenvolvimento Full Stack, banco de dados e aplicações web, unindo minha experiência analítica da área da saúde com soluções tecnológicas.
 
 ---
-## 🌐 Socials:
+
+## 🌐 Socials: 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/larissa-bertaze) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:larissabertaze@gmail.com) 
+</div>
+</div>
 
 ---
 
-## 🚀 Tecnologias em aprendizado
+# 🚀 Tecnologias em aprendizado
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
@@ -48,6 +53,8 @@ Atuar como Desenvolvedora Back-end / Full Stack Júnior, contribuindo com projet
 ---
 
 # 📊 GitHub Stats:
+<div align="center">
+  
 ![](https://github-readme-stats.vercel.app/api?username=larissabertaze-dev&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=larissabertaze-dev&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=larissabertaze-dev&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
