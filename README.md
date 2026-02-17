@@ -11,7 +11,7 @@ Tenho foco em desenvolvimento Full Stack, banco de dados e aplicações web.
   
 ## 🎯 Objetivo
 
-Atuar como Desenvolvedora Back-end / Full Stack Júnior, contribuindo com projetos que unam tecnologia e impacto real.
+Atuar como Desenvolvedora Full Stack Júnior, contribuindo com projetos que unam tecnologia e impacto real.
 
 ---
 
