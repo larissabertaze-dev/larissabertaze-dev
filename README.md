@@ -1,3 +1,5 @@
+<div align="center">
+  
 # 👩‍💻 Larissa Bertaze
 
 Estudante de **Análise e Desenvolvimento de Sistemas**, em transição de carreira da Medicina Veterinária para a área de Tecnologia da Informação.
@@ -14,7 +16,8 @@ Tenho foco em desenvolvimento Full Stack, banco de dados e aplicações web, uni
 </div>
 
 ---
-
+<div align="center">
+  
 ## 🚀 Tecnologias em aprendizado
 
 <div align="center">
@@ -51,7 +54,8 @@ Tenho foco em desenvolvimento Full Stack, banco de dados e aplicações web, uni
 Atuar como Desenvolvedora Back-end / Full Stack Júnior, contribuindo com projetos que unam tecnologia e impacto real.
 
 ---
-
+<div align="center">
+  
 # 📊 GitHub Stats:
 <div align="center">
   
