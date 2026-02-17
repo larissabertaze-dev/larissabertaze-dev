@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👩‍💻 Larissa Bertaze
+# 👩‍💻 __*Larissa Bertaze*__
 
 Estudante de **Análise e Desenvolvimento de Sistemas**, em transição de carreira da Medicina Veterinária para a área de Tecnologia da Informação.
 
