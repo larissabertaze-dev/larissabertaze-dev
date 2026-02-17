@@ -8,8 +8,6 @@ Tenho foco em desenvolvimento Full Stack, banco de dados e aplicações web, uni
 
 ## 🚀 Tecnologias em aprendizado
 
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -27,13 +25,6 @@ Tenho foco em desenvolvimento Full Stack, banco de dados e aplicações web, uni
 </div>
 
 ###
-
-
-* JavaScript
-* SQL / MySQL / PostgreSQL
-* HTML5 & CSS3
-* Git & GitHub
-* Lógica de Programação
 
 ---
 
