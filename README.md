@@ -2,9 +2,9 @@
   
 # 👩‍💻 __*Larissa Bertaze*__
 
-Estudante de **Análise e Desenvolvimento de Sistemas**, em transição de carreira da Medicina Veterinária para a área de Tecnologia da Informação.
+Desenvolvedora Web Full Stack em formação | Estudante de Análise e Desenvolvimento de Sistemas
 
-Tenho foco em desenvolvimento Full Stack, banco de dados e aplicações web.
+Profissional em transição de carreira da Medicina Veterinária para a área de Tecnologia da Informação, com foco em desenvolvimento web, banco de dados e criação de aplicações modernas e responsivas.
 
 ---
 <div align="center">
