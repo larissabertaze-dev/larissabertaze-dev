@@ -1,10 +1,19 @@
-<div align="center">
+<div align="justify">
   
 # 👩‍💻 __*Larissa Bertaze*__
 
-Desenvolvedora Web Full Stack em formação | Estudante de Análise e Desenvolvimento de Sistemas
+Sou desenvolvedora Full Stack com foco em Front-End e graduanda em Análise e Desenvolvimento de Sistemas. Tenho interesse no desenvolvimento de aplicações web modernas, escaláveis e de alta performance, buscando sempre criar soluções eficientes, responsivas e centradas na experiência do usuário.
 
-Profissional em transição de carreira da Medicina Veterinária para a área de Tecnologia da Informação, com foco em desenvolvimento web, banco de dados e criação de aplicações modernas e responsivas.
+Possuo experiência no desenvolvimento de aplicações utilizando Angular como principal framework, além de atuar com .NET e C# na construção de APIs e aplicações back-end. Também tenho experiência com React e Vue.js, aplicando conceitos como arquitetura baseada em componentes, Lazy Loading, Reactive Forms, Standalone Components, RxJS, Angular Signals, Guards, Interceptors, Dependency Injection e integração com APIs RESTful.
+
+Desenvolvo interfaces utilizando TypeScript, JavaScript (ES6+), HTML5, CSS3, Sass, Bootstrap, Tailwind CSS e Angular Material, priorizando acessibilidade, responsividade, performance e
+boas práticas de desenvolvimento.
+
+No back-end, possuo experiência com C# e .NET, desenvolvendo APIs REST, integrações entre sistemas, autenticação com JWT e consumo de bancos de dados relacionais. Também tenho conhecimentos em PHP, Java, Python, MySQL, Git e GitHub, aplicando princípios como Clean Code, SOLID, arquitetura modular e padrões de desenvolvimento voltados para aplicações
+escaláveis, performáticas e de fácil manutenção.
+
+Sou apaixonada por tecnologia, busco constante evolução profissional e estou sempre aprimorando meus conhecimentos em desenvolvimento de software. Gosto de trabalhar em equipes ágeis, colaborar na construção de soluções inovadoras e contribuir para a entrega de produtos modernos, eficientes e de alta qualidade.
+
 
 ---
 <div align="center">
