@@ -1,6 +1,10 @@
-<div align="justify">
-  
+<div align="center">
+
 # 👩‍💻 __*Larissa Bertaze*__
+
+</div>
+
+<div align="justify">
 
 Sou desenvolvedora Full Stack com foco em Front-End e graduanda em Análise e Desenvolvimento de Sistemas. Tenho interesse no desenvolvimento de aplicações web modernas, escaláveis e de alta performance, buscando sempre criar soluções eficientes, responsivas e centradas na experiência do usuário.
 
@@ -17,18 +21,11 @@ Sou apaixonada por tecnologia, busco constante evolução profissional e estou s
 
 ---
 <div align="center">
-  
-## 🎯 Objetivo
-
-Atuar como Desenvolvedora Full Stack Júnior, contribuindo com projetos que unam tecnologia e impacto real.
-
----
 
 ## 🌐 Socials: 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/larissa-bertaze) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:larissabertaze@gmail.com) 
-</div>
 </div>
 
 ---
